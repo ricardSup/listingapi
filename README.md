@@ -10,4 +10,5 @@ cd listingapi
   update fileList (Har namefile) and listexclude (keyword to exclude from url which is core/ related asset)
 npm i
 npm run watch
+Open a HTML file and right-click on the editor and click on Open with Live Server
 ```
